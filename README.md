@@ -83,7 +83,7 @@ The tests cover complete assignment, airport continuity, overlapping flights, si
 
 ## Project authorship and provenance
 
-This project originated as a **two-person course assignment** by **Satu Honka** (HAMK exchange student) and **a fellow student from Dongguk University** (Dongguk University student) in Fall 2024. The historical source under `archive/` is based on Satu's supplied `flight_schedule.cpp`. The course notes and report also document subsequent joint algorithm development; those drafts are summarized rather than republished as someone else's original source code. See [development and credits](docs/DEVELOPMENT.md).
+This project originated as a **two-person course assignment** by **Satu Honka** (HAMK exchange student) and **a fellow student from Dongguk University** in Fall 2024. The historical source under `archive/` is based on Satu's supplied `flight_schedule.cpp`. The course notes and report also document subsequent joint algorithm development; those drafts are summarized rather than republished as someone else's original source code. See [development and credits](docs/DEVELOPMENT.md).
 
 The `src/` implementation is a **new portfolio reference version**, explicitly separated from the historical course submissions. It was implemented from the supplied task constraints and development notes and tested with both the self-created sample and the course dataset. Individual contributions to the original final team submission have not been inferred where the source materials do not establish them.
 
