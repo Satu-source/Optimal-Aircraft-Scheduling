@@ -1,7 +1,7 @@
 // Portfolio reference implementation based on a 2024 two-person course project.
 // This is a new, reviewed implementation of the randomized assignment idea;
 // it is NOT the source file originally submitted for the course.
-// Contributors to the original course project: Satu Honka and 박수빈.
+// Contributors to the original course project: Satu Honka and a fellow student from Dongguk University.
 
 #include <algorithm>
 #include <cstdint>
