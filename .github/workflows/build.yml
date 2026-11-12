@@ -1,0 +1,13 @@
+name: Build and test C++ project
+on:
+  push:
+  pull_request:
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build
+        run: cmake -S . -B build && cmake --build build --config Release
+      - name: Run regression checks
+        run: python3 -m unittest discover -s tests -v
