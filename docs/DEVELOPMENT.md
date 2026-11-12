@@ -5,7 +5,7 @@
 The original work was produced for the **Computer Algorithm** course at **Dongguk University (Fall 2024)**. The two-person team named in the project report was:
 
 - **Satu Honka**, exchange student at Dongguk University (HAMK)
-- **a fellow student from Dongguk University**, Dongguk University student
+- **A fellow student from Dongguk University** (name withheld)
 
 The task was to design an aircraft-flight assignment plan minimizing the fleet size while assigning every scheduled flight, respecting time and airport-connection constraints.
 
